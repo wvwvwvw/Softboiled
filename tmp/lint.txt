@@ -1,0 +1,18 @@
+﻿
+Ren'Py 6.15.7.374 lint report, generated at: Wed Aug 14 11:23:37 2013
+
+game/script.rpy:10 Image bg park2 uses file 'park2.jpg', which is not loadable.
+
+
+Statistics:
+
+The game contains 81 dialogue blocks, containing 435 words and 2,170
+characters, for an average of 5.4 words and 27 characters per block.
+
+The game contains 3 menus, 15 images, and 12 screens.
+
+
+Remember to set config.developer to False before releasing.
+
+Lint is not a substitute for thorough testing. Remember to update Ren'Py
+before releasing. New releases fix bugs and improve compatibility.
